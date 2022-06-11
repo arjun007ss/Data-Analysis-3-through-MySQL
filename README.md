@@ -7,10 +7,12 @@ Download db_dump.sql file to your local computer
 Data Analysis Using SQL
 
 1.Show all customer records
+
 SELECT * 
 FROM customers;
 
 2.Show total number of customers
+
 SELECT count(*) 
 FROM sales.customers;
 
